@@ -4,6 +4,8 @@
 
 -Built with javascript, html, css and express.
 
+-App can be viewed from the terminal by typing    node server.js   from the command line.
+
 -App can be accessed at:   https://gentle-tundra-91494.herokuapp.com 
   
 
